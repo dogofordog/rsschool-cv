@@ -52,3 +52,5 @@ int main ()
 - _Russian_ - native
 - _Ukrainian_ - native speaker
 - _English_ - C1
+
+![ProfilePhoto](photo/Profile-photo.jpg) 
