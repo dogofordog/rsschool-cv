@@ -34,7 +34,7 @@ int main ()
 
 - _Own business – Restaurant (Since 2019)._
 - _Sales manager -_ [Caspian Gold](https://caspiangold.ru)
-- _RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)_
+- System administrator in court
 
 # **Courses:**
 
