@@ -10,9 +10,8 @@
 
 # **About Me:**
 
-- _I am currently working as a sales manager in a company_ [Caspian Gold](https://caspiangold.ru)
-  _My goal is to learn, a new skils. I'm fairly well versed in computer hardware.
-  I want to gain basic knowledge and skills for further self-development_
+- _I am currently working as a sales manager at [Caspian Gold](https://caspiangold.ru).  
+My goal is to transition into the IT field — I have a strong passion for technology, a higher education degree in Applied Mathematics and Informatics, and a genuine love for continuous learning and self-development. I'm fairly well-versed in computer hardware and eager to gain the fundamental knowledge and practical skills needed to start a career in IT._
 
 # **Code example:**
 
