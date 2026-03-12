@@ -1,1 +1,1 @@
-git add(https://dogofordog.github.io/rsschool-cv/cv)
+git https://dogofordog.github.io/rsschool-cv/cv
