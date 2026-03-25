@@ -1,2 +1,2 @@
 https://dogofordog.github.io/rsschool-cv/cv
-https://dogofordog.github.io/rsschool-cv/git 
+https://dogofordog.github.io/rsschool-cv/
