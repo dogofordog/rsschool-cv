@@ -253,7 +253,7 @@ code {
   filter: brightness(0) invert(1);
 }
 
-@media (max-width: 768px) {
+@media (max-width: 600px) {
   body {
     padding: 1rem;
   }
